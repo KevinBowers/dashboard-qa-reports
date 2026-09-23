@@ -1,0 +1,625 @@
+{
+  "version": 1,
+  "suite": "census",
+  "runId": "35924034717",
+  "commit": "6557fe3e86b04241ec0ea8a47a07d9f9f91c5e95",
+  "generatedAt": "2026-09-23T21:43:25.038Z",
+  "total": 1,
+  "passed": 1,
+  "expectedFailures": 0,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "globalErrors": 0,
+  "runStatus": "passed",
+  "screenshots": 50,
+  "tests": [
+    {
+      "title": "Authenticated check 001",
+      "status": "passed",
+      "durationMs": 63222,
+      "evidence": [
+        {
+          "image": "assets/evidence-001.png",
+          "route": "2facode.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 0,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-002.png",
+          "route": "addjob.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-003.png",
+          "route": "alldevices.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-004.png",
+          "route": "billingbreakdown.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-005.png",
+          "route": "broadcastMessage.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-006.png",
+          "route": "bugs.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-007.png",
+          "route": "calendar.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-008.png",
+          "route": "calendar2.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 0,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-009.png",
+          "route": "chat.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 0,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-010.png",
+          "route": "clientbalances.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-011.png",
+          "route": "clientcontracts.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 1,
+            "select": 1,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-012.png",
+          "route": "clientfeedback.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 1,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-013.png",
+          "route": "clientproject.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 0,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-014.png",
+          "route": "clientTeamSite.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-015.png",
+          "route": "contactnumbers.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-016.png",
+          "route": "contactnumbers2.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-017.png",
+          "route": "coordinatorreport.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-018.png",
+          "route": "crm.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-019.png",
+          "route": "crmadmin.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-020.png",
+          "route": "crmvoicemails.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-021.png",
+          "route": "drafts.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-022.png",
+          "route": "employees.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-023.png",
+          "route": "esccalendar.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-024.png",
+          "route": "exportleads.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-025.png",
+          "route": "externalinvoices.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-026.png",
+          "route": "feed.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 0,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-027.png",
+          "route": "feedback.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-028.png",
+          "route": "feedbacktickets.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-029.png",
+          "route": "goals.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-030.png",
+          "route": "goals2.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-031.png",
+          "route": "gpt.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-032.png",
+          "route": "grades.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-033.png",
+          "route": "hr.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-034.png",
+          "route": "hradmin.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-035.png",
+          "route": "hrrequest.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-036.png",
+          "route": "importclients.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-037.png",
+          "route": "importleads.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-038.png",
+          "route": "invoicelog.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-039.png",
+          "route": "invoicemailer.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-040.png",
+          "route": "kapowza.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-041.png",
+          "route": "latefees.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-042.png",
+          "route": "latlng.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 0,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-043.png",
+          "route": "managesites.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-044.png",
+          "route": "mileage.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-045.png",
+          "route": "misbilled.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 0,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-046.png",
+          "route": "missingitems.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-047.png",
+          "route": "monitor.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 0,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-048.png",
+          "route": "monthlyusage.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 1,
+            "select": 0,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-049.png",
+          "route": "multitest.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 0,
+            "select": 1,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        },
+        {
+          "image": "assets/evidence-050.png",
+          "route": "newdaily.php",
+          "httpStatus": 200,
+          "controls": {
+            "input": 3,
+            "select": 7,
+            "textarea": 0,
+            "button": 0,
+            "disabled": 0
+          }
+        }
+      ]
+    }
+  ]
+}
